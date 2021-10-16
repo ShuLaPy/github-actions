@@ -1,5 +1,7 @@
 # Repo to practice Github Actions
 
+![Build and Deploy](https://github.com/shulapy/github-actions/actions/workflows/build-deploy.yml/badge.svg)
+
 This repo is created to test the Github Actions to deploy this Simple react app created with `create-react-app --template typescript` on github-pages.
 
 
